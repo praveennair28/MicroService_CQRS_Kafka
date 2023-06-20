@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SM-Post",
+    "\\SM-Post\\Post-Query",
+    "\\SM-Post\\Post-Query\\Post.Query.Api",
+    "\\SM-Post\\Post-Query\\Post.Query.Domain",
+    "\\SM-Post\\Post-Query\\Post.Query.Domain\\Entities"
+  ],
+  "SelectedNode": "\\SM-Post\\Post-Query\\Post.Query.Api\\Post.Query.Api.csproj",
+  "PreviewInSolutionExplorer": false
+}

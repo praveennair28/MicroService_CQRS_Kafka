@@ -1,6 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
-using Post.Query.Domain.Entities;
+using Post.Query.Domain.Repositories;
 using Post.Query.Domain.Repositories;
 using Post.Query.Infrastructure.DataAccess;
 
